@@ -2,6 +2,18 @@
 title Ultimate Windows Maintenance Script (Full Maintenance - Run as Administrator)
 cls
 
+REM =========================================================
+REM --- DIGITAL DEFENDER'S SCRIPT SIGNATURE ---
+REM =========================================================
+REM PROJECT: OS Optimization and Security Suite
+REM AUTHOR: [Your Coder Tag Here]
+REM MISSION: Maintaining a fast, clean, and private Windows environment.
+REM CREATION DATE: 2025-11-07
+REM LAST MODIFIED: 2025-11-07
+REM NOTE: Always run this script as Administrator for full system access.
+REM =========================================================
+
+
 echo =========================================================
 echo  STARTING FULL SYSTEM DIAGNOSTIC AND MAINTENANCE ROUTINE
 echo =========================================================
