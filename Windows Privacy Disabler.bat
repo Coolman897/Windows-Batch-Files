@@ -2,18 +2,6 @@
 title Windows Privacy Disabler (Run as Administrator)
 cls
 
-REM =========================================================
-REM --- DIGITAL DEFENDER'S SCRIPT SIGNATURE ---
-REM =========================================================
-REM PROJECT: OS Optimization and Security Suite
-REM AUTHOR: [Coolman]
-REM MISSION: Maintaining a fast, clean, and private Windows environment.
-REM CREATION DATE: 2025-11-07
-REM LAST MODIFIED: 2025-11-07
-REM NOTE: Always run this script as Administrator for full system access.
-REM =========================================================
-
-
 echo =========================================================
 echo  STARTING WINDOWS PRIVACY AND TELEMETRY DISABLER
 echo =========================================================
@@ -64,4 +52,5 @@ cls
 echo Exiting Privacy Disabler.
 timeout /t 2 /nobreak >nul
 exit
+
 
