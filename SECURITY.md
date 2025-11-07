@@ -22,7 +22,7 @@ We strongly encourage using GitHub's built-in private reporting feature:
 ### Alternative Method: Direct Email
 If you are unable to use the GitHub feature, please send a detailed, encrypted email (if possible) to:
 
-* **Email:** `[YOUR DEDICATED SECURITY EMAIL ADDRESS HERE]` (e.g., `security@yourdomain.com`)
+* **Email:** `coolman897@protonmail.com
 
 We aim to acknowledge receipt of your report within **[2]** business days.
 
